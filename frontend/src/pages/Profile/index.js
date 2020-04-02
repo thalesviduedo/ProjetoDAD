@@ -77,7 +77,7 @@ export default function Profile() {
                         <p>{incident.description}</p>
 
                         <strong>WHATSAPP RESPONSAVEL:</strong>
-                        <a href={"https://wa.me/" + incident.whatsapp + "?text=Ola vamos discutir sobre o caso: " + incident.title} target="_blank">Abrir API Whatsapp</a>
+                        <a href={"https://wa.me/55" + incident.whatsapp + "?text=Ola vamos discutir sobre o caso: " + incident.title} target="_blank">Abrir API Whatsapp</a>
                         <p>{incident.whatsapp}</p>
 
                         <strong>VALOR:</strong>
