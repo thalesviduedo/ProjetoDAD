@@ -2,14 +2,14 @@
 Prova De desenvolvimento de aplicações distribuidas.
 
 
-install
+<h1>install</h1>
 
-backend folder
-npm install package.json
-npm start
+<b><p>backend folder</p></b>
+<p>npm install package.json</p>
+<p>npm start</p>
 
-frontend folder
-npm install package.json
-npm start
+<b><p>frontend folder</p></b>
+<p>npm install package.json</p>
+<p>npm start</p>
 
 everything's gonna be gud!
